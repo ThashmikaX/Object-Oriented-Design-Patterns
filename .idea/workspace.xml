@@ -5,19 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20243b7e-4d70-4a9f-b5d0-59908636fecc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factor Method/Factor Method.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factor Method/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factor Method/src/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factor Method/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factor Method/src/SUV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factor Method/src/SUVFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factor Method/src/Sedan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factor Method/src/SedanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory Method DP/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Object Oriented Design Patterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Object Oriented Design Patterns.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factory Method/Factory Method.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/FactoryMethodPattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factory Method/pasted image 0.png" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/pasted image 0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factory Method/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factory Method/src/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factory Method/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factory Method/src/SUV.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/SUV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factory Method/src/SUVFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/SUVFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factory Method/src/Sedan.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/Sedan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factory Method/src/SedanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/SedanFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="2onWEMl6aQUHyczGKK2Vc8iMmKo" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,11 +58,14 @@
     "Application.FactoryMethodDemo.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Unnamed.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/X/project/programming_projects/academic/Object Oriented Design Patterns",
-    "onboarding.tips.debug.path": "D:/X/project/programming_projects/academic/Object Oriented Design Patterns/Factor Method/src/Main.java",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/X/project/programming_projects/academic/Object Oriented Design Patterns/Factory Method/src",
+    "onboarding.tips.debug.path": "D:/X/project/programming_projects/academic/Object Oriented Design Patterns/FactoryMethodPattern/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0"
@@ -66,9 +73,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\X\project\programming_projects\academic\Object Oriented Design Patterns\Factory Method\src" />
       <recent name="D:\X\project\programming_projects\academic\Object Oriented Design Patterns" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\X\project\programming_projects\academic\Object Oriented Design Patterns\FactoryMethodPattern" />
+      <recent name="D:\X\project\programming_projects\academic\Object Oriented Design Patterns\Factory Method" />
       <recent name="D:\X\project\programming_projects\academic\Object Oriented Design Patterns\Factor Method\src" />
       <recent name="D:\X\project\programming_projects\academic\Object Oriented Design Patterns\Factory Method DP" />
     </key>
@@ -76,14 +86,14 @@
   <component name="RunManager" selected="Application.Main">
     <configuration name="FactoryMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FactoryMethodDemo" />
-      <module name="Factory Method" />
+      <module name="FactoryMethod" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Factory Method" />
+      <module name="FactoryMethod" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,5 +129,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FactoryMethodPattern/src/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Object_Oriented_Design_Patterns$Main.ic" NAME="Main Coverage Results" MODIFIED="1731509962803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
