@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20243b7e-4d70-4a9f-b5d0-59908636fecc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/SqoId.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/Blue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/ColorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/Red.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingletonPattern/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingletonPattern/src/Singleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactoryPattern/src/ColorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/ColorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactoryPattern/src/FactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/FactoryProducer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AbstractFactoryPattern/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactoryPattern/src/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/ShapeFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +60,7 @@
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/X/project/programming_projects/academic/Object Oriented Design Patterns/Factory Method/src",
-    "onboarding.tips.debug.path": "D:/X/project/programming_projects/academic/Object Oriented Design Patterns/AbstractFactoryPattern/src/Main.java",
+    "onboarding.tips.debug.path": "D:/X/project/programming_projects/academic/Object Oriented Design Patterns/SingletonPattern/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0"
@@ -136,6 +131,11 @@
           <url>file://$PROJECT_DIR$/FactoryMethodPattern/src/Main.java</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SingletonPattern/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
