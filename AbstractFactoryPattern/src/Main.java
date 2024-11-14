@@ -1,15 +1,25 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        // Get shape factory
+        AbstractFactory shapeFactory = FactoryProducer.getFactory(true);
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+        // Get an object of Shape Circle and call its draw method
+        Shape shape1 = shapeFactory.getShape("CIRCLE");
+        shape1.draw();
+
+        // Get an object of Shape Square and call its draw method
+        Shape shape2 = shapeFactory.getShape("SQUARE");
+        shape2.draw();
+
+        // Get color factory
+        AbstractFactory colorFactory = FactoryProducer.getFactory(false);
+
+        // Get an object of Color Red and call its fill method
+        Color color1 = colorFactory.getColor("RED");
+        color1.fill();
+
+        // Get an object of Color Blue and call its fill method
+        Color color2 = colorFactory.getColor("BLUE");
+        color2.fill();
     }
 }

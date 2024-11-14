@@ -5,20 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20243b7e-4d70-4a9f-b5d0-59908636fecc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Object Oriented Design Patterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Object Oriented Design Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/SqoId.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/ColorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory Method/Factory Method.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/FactoryMethodPattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory Method/pasted image 0.png" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/pasted image 0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory Method/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory Method/src/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/CarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory Method/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory Method/src/SUV.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/SUV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory Method/src/SUVFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/SUVFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory Method/src/Sedan.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/Sedan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory Method/src/SedanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethodPattern/src/SedanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractFactoryPattern/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractFactoryPattern/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +41,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2onWEMl6aQUHyczGKK2Vc8iMmKo" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -65,7 +65,7 @@
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/X/project/programming_projects/academic/Object Oriented Design Patterns/Factory Method/src",
-    "onboarding.tips.debug.path": "D:/X/project/programming_projects/academic/Object Oriented Design Patterns/FactoryMethodPattern/src/Main.java",
+    "onboarding.tips.debug.path": "D:/X/project/programming_projects/academic/Object Oriented Design Patterns/AbstractFactoryPattern/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0"
@@ -93,7 +93,6 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="FactoryMethod" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
