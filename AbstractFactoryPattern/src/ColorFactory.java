@@ -1,3 +1,4 @@
+// Step 6: Create concrete factory classes extending AbstractFactory
 public class ColorFactory extends AbstractFactory{
     @Override
     Color getColor(String colorType) {

@@ -1,3 +1,4 @@
+// Step 6: Create concrete factory classes extending AbstractFactory
 public class ShapeFactory extends AbstractFactory{
     @Override
     Shape getShape(String shapeType) {

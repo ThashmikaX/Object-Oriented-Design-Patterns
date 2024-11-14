@@ -1,3 +1,4 @@
+// Step 8: Demonstrate the usage of Abstract Factory Pattern in a client code
 public class Main {
     public static void main(String[] args) {
         // Get shape factory
