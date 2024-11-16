@@ -7,4 +7,4 @@ public class Main {
         // Step 8: Call the method on the singleton instance
         singletonInstance.showMessage();    // Output: Hello World! This is a singleton instance.
     }
-}
+} 
