@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20243b7e-4d70-4a9f-b5d0-59908636fecc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/src/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/INewPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/LegacyPaymentSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/PaymentSystemAdapter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingletonPattern/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonPattern/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/X/project/programming_projects/academic/Object Oriented Design Patterns/Factory Method/src",
-    "onboarding.tips.debug.path": "D:/X/project/programming_projects/academic/Object Oriented Design Patterns/ObserverPattern/src/Main.java",
+    "onboarding.tips.debug.path": "D:/X/project/programming_projects/academic/Object Oriented Design Patterns/AdapterPattern/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
