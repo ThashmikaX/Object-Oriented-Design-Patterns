@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20243b7e-4d70-4a9f-b5d0-59908636fecc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/AddonDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/PlainCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/Sugar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecoratorPattern/src/WhippedCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProxyPattern/ProxyPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProxyPattern/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProxyPattern/src/RealVideoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProxyPattern/src/VideoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProxyPattern/src/VideoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProxyPattern/src/VideoServiceProxy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +59,7 @@
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/X/project/programming_projects/academic/Object Oriented Design Patterns/Factory Method/src",
-    "onboarding.tips.debug.path": "D:/X/project/programming_projects/academic/Object Oriented Design Patterns/DecoratorPattern/src/Main.java",
+    "onboarding.tips.debug.path": "D:/X/project/programming_projects/academic/Object Oriented Design Patterns/ProxyPattern/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -104,6 +101,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProxyPattern/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Object_Oriented_Design_Patterns$Main.ic" NAME="Main Coverage Results" MODIFIED="1731509962803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
