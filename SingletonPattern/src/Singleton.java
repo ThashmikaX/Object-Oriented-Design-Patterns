@@ -1,18 +1,17 @@
-// Step 1: Create a Singleton class
 public class Singleton {
-    // Step 2: Create a privat static instance of class
-    private static Singleton instance = new Singleton();
+    // Static variable to hold the single instance
+    private static Singleton instance;
 
-    // Step 3: Make the constructor private so that this class cannot be instantiated from outside
-    private Singleton(){}
-
-    // Step 4: Provide a public static method to get the instance of the class
-    public static Singleton getInstance(){
-        return instance;
+    // Private constructor to prevent instantiation
+    private Singleton() {
+        System.out.println("Singleton instance created.");
     }
 
-    // Step 5: Add a method to demonstrate functionality
-    public void showMessage(){
-        System.out.println("Hello World! This is a singleton instance.");
+    // Public method to provide access to the instance
+    public static Singleton getInstance() {
+        if (instance == null) {
+            instance = new Singleton();
+        }
+        return instance;
     }
 }
